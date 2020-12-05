@@ -1,0 +1,19 @@
+{
+  "name": "http-tag-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skuxxdeluxxe/http-tag-checker.git"
+  },
+  "author": "Shantanu Padhye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skuxxdeluxxe/http-tag-checker/issues"
+  },
+  "homepage": "https://github.com/skuxxdeluxxe/http-tag-checker#readme"
+}
